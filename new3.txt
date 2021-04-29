@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 line1 for master again
+=======
+line1 for feature2
+>>>>>>> feature2
